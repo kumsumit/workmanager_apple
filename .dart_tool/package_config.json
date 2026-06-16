@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "async",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/async-2.13.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/async-2.13.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -15,7 +15,7 @@
     },
     {
       "name": "characters",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/characters-1.4.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/characters-1.4.1",
       "packageUri": "lib/",
       "languageVersion": "3.4"
     },
@@ -39,9 +39,9 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter",
+      "rootUri": "file:///Users/amitsharan/.shorebird/bin/cache/flutter/65b1e4368e98a85ea11e8ef2cffc286c3b2ad8b2/packages/flutter",
       "packageUri": "lib/",
-      "languageVersion": "3.8"
+      "languageVersion": "3.12"
     },
     {
       "name": "flutter_lints",
@@ -51,9 +51,9 @@
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/amitsharan/development/flutter/packages/flutter_test",
+      "rootUri": "file:///Users/amitsharan/.shorebird/bin/cache/flutter/65b1e4368e98a85ea11e8ef2cffc286c3b2ad8b2/packages/flutter_test",
       "packageUri": "lib/",
-      "languageVersion": "3.8"
+      "languageVersion": "3.12"
     },
     {
       "name": "leak_tracker",
@@ -81,19 +81,19 @@
     },
     {
       "name": "matcher",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/matcher-0.12.17",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/matcher-0.12.20",
       "packageUri": "lib/",
-      "languageVersion": "3.4"
+      "languageVersion": "3.10"
     },
     {
       "name": "material_color_utilities",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/material_color_utilities-0.11.1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/material_color_utilities-0.13.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "3.5"
     },
     {
       "name": "meta",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/meta-1.17.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/meta-1.18.3",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
@@ -111,13 +111,13 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/amitsharan/development/flutter/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/amitsharan/.shorebird/bin/cache/flutter/65b1e4368e98a85ea11e8ef2cffc286c3b2ad8b2/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
-      "languageVersion": "3.8"
+      "languageVersion": "3.10"
     },
     {
       "name": "source_span",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/source_span-1.10.1",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/source_span-1.10.2",
       "packageUri": "lib/",
       "languageVersion": "3.1"
     },
@@ -147,38 +147,38 @@
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/test_api-0.7.7",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/test_api-0.7.12",
       "packageUri": "lib/",
-      "languageVersion": "3.5"
+      "languageVersion": "3.10"
     },
     {
       "name": "vector_math",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_math-2.2.0",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vector_math-2.4.0",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "3.10"
     },
     {
       "name": "vm_service",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vm_service-15.0.2",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/hosted/pub.dev/vm_service-15.2.0",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     },
     {
       "name": "workmanager_platform_interface",
-      "rootUri": "file:///Users/amitsharan/.pub-cache/git/workmanager_platform_interface-78f2e3e6aff761c45ba8c125fb2a6efdea6c3ede/",
+      "rootUri": "file:///Users/amitsharan/.pub-cache/git/workmanager_platform_interface-72c2ec3689f4ec6bf1c368e203f69835219f0889/",
       "packageUri": "lib/",
-      "languageVersion": "3.10"
+      "languageVersion": "3.12"
     },
     {
       "name": "workmanager_apple",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.10"
+      "languageVersion": "3.12"
     }
   ],
   "generator": "pub",
-  "generatorVersion": "3.10.8",
-  "flutterRoot": "file:///Users/amitsharan/development/flutter",
-  "flutterVersion": "3.38.9",
+  "generatorVersion": "3.12.2",
+  "flutterRoot": "file:///Users/amitsharan/.shorebird/bin/cache/flutter/65b1e4368e98a85ea11e8ef2cffc286c3b2ad8b2",
+  "flutterVersion": "3.44.2",
   "pubCache": "file:///Users/amitsharan/.pub-cache"
 }
